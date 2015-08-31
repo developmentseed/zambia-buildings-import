@@ -10,12 +10,12 @@ Currently: Creating extract of Zambia
 
 ##Installation Requirements 
 (as of 8.31.2015, will continue to update)
-    PostGres
-    PostGIS
-    GDAL
-    ogr2ogr
-    QGIS 
-    Osmium (and required dependencies/libraries)
+        PostGres
+        PostGIS
+        GDAL
+        ogr2ogr
+        QGIS 
+        Osmium (and required dependencies/libraries)
 
 ##Upload process
 
