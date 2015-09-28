@@ -1,8 +1,8 @@
-Current Status:
+<h2> Current Status:</h2>
 
 Creating the extract for the portion of Zambia where the data is located. Once the extract is created, we will be able to compare the current OSM data to the data to be uploaded. 
 
-Proposal: 
+<h1>Proposal: </h1>
 
 
 
@@ -18,7 +18,7 @@ Email the the data imports listserv, and Africa listserv letting them know they 
 Create a designated user account for the upload
 Conduct the upload
 
-Dedicated user accounts
+<h2>Dedicated user accounts </h2>
 
 As per OSM import guidelines, this import will be conducted with dedicated user accounts, that pattern for creating user accounts will be as follows:
 
@@ -28,15 +28,15 @@ So for the username laurencjay, the account name would be
 
 laurencjay_zambiabuildings
 
-Conversion Code and Converted Data
+<h2>Conversion Code and Converted Data</h2>
 
 We have created two scripts for this project: 1) to create the Zambia OSM extract and 2) to create the overlay between the Zambia OSM extract, and the Akros dataset. Both of these scripts and our import process documentation can be found on github.
 
-Attribute mapping tags
+<h2>Attribute mapping tags</h2>
 
 Tags follow OSM guidelines, currently the only tag being used by this dataset is “building=yes.”
 
-Timeline
+<h2>Timeline</h2>
 
 Proposal review August 18th - October 1st 2015.
 Incorporate feedback and test imports by October 15th 2015
