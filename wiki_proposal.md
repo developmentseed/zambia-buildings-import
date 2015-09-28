@@ -38,9 +38,12 @@ Tags follow OSM guidelines, currently the only tag being used by this dataset is
 
 <h2>Timeline</h2>
 
-Proposal review August 18th - October 1st 2015.
+Proposal review August 18th - October 1st 2015
+
 Incorporate feedback and test imports by October 15th 2015
+
 Development Seed imports October 19th - October 23rd 2015
+
 Finalize import by end of October 2015
 
 **Timeline above is rough**
