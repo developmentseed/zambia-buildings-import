@@ -9,7 +9,7 @@ This data was collected by <a href='http://akros.com/how-we-do-it/data-collectio
 Currently: Creating extract of Zambia
 
 ##Installation Requirements
-(As of 8/31/2015, will be continually updating)
+(As of 10/1/2015, will be continually updating)
 ```
         PostGres
         PostGIS
