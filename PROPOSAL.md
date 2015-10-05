@@ -37,7 +37,7 @@ As per OSM import guidelines, this import will be conducted with dedicated user 
 
     <username>_zambiabuildings
 
-For this project, for the username laurencjay, the account name would be 
+In this project, for the username laurencjay, the account name would be 
 
     laurencjay_zambiabuildings
 
@@ -45,8 +45,8 @@ For this project, for the username laurencjay, the account name would be
 
 We have created two scripts for this project: 
 
-1) to create the Zambia OSM extract
-2) to create the overlay between the Zambia OSM extract, and the Akros dataset. Both of these scripts and our import process documentation can be found on github.
+1. to create the Zambia OSM extract
+2. to create the overlay between the Zambia OSM extract, and the Akros dataset. Both of these scripts and our import process documentation can be found on github.
 
 #### Attribute mapping tags 
 
