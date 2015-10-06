@@ -1,12 +1,11 @@
-![zambia](https://cloud.githubusercontent.com/assets/719357/10229553/d06fc1b8-6846-11e5-834c-7e0f1ea5181a.gif)
-
-This devlog is part of the [Zambia extract work] Since we needed to compare ground truth data with existing OSM data, we had to download a portion of the entire country from OSM. 
-
 ## Extracting Zambia
+
+![zambia](https://cloud.githubusercontent.com/assets/719357/10229553/d06fc1b8-6846-11e5-834c-7e0f1ea5181a.gif)
 
 Zambia doesn't exist on [GeoFabrik Extracts](http://download.geofabrik.de/) or [Mapzen Metro Extracts](https://mapzen.com/data/metro-extracts), so we need to extract it from Africa.
 
 First download Africa's PBF (~1GB):
+
 ```sh
 wget http://download.geofabrik.de/africa-latest.osm.pbf
 ```
