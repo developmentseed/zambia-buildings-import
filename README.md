@@ -3,7 +3,7 @@
 Process of uploading a Zambia buildings data, generating an OSM extract file of Zambia, and comparing the two in order to upload the data to OSM.
 
 ##Data
-This data was collected by <a href='http://akros.com/how-we-do-it/data-collection/'>Akros Global Health</a> in conjunction with their mSpray Malaria prevention program
+This data was collected by <a href='http://akros.com/how-we-do-it/data-collection/'>Akros Global Health</a> in conjunction with their mSpray Malaria prevention program. More details on data and program in [`PROPOSAL.md`](https://github.com/developmentseed/zambia-buildings-import/blob/master/PROPOSAL.md)
 
 ##Status
 Currently: Creating extract of Zambia
