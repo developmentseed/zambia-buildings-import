@@ -4,9 +4,9 @@
 
 ## Intro
 
-[Akros Global Health](http://akros.com) is an organization that works to strengthen national health systems in developing countries. One of the programs Akros has initiated is [mSpray](http://akros.com/mspray/), Indoor Residual Spraying for Malaria prevention. Through this program, Akros collected data on the location of buildings that have been sprayed. 
+[Akros Global Health](http://akros.com) is an organization that works to strengthen national health systems in developing countries. One of the programs Akros has initiated is [mSpray](http://akros.com/mspray/), Indoor Residual Spraying (IRS) for Malaria prevention. IRS is one of the world's best tools in fighting malaria. Insecticides are sprayed on household walls, killing mosquitoes that spread malaria. Stop the mosquito, stop malaria. Funded by the Global Health Bureau at USAID, mSpray is a revolutionary new tool that incorporates three processes to achieve the maximum impact for your IRS dollars. Through this program, Akros collectes data on when to spray, what to spray, and where to spray. Getting these three factors to line up takes lots of planning, and having the best informaiton available increases the effectiveness of a spray campaign.
 
-The main goal of this work is to not only do a large import of buildings (268k records) into Zambia, but set an example for how Akros and other organizations can use field based operations to contribute back to OpenStreetMap. This data is verified by Akros Global Health contributors. This proposal suggests a one time import, with possible future imports once additional datasets have been cleaned and verified.
+The main goal of this work is to not only do a large import of buildings (268k records) into Zambia, but set an example for how Akros and other organizations can use field based operations to contribute back to OpenStreetMap. Data was verified by Akros Global Health contributors with assistance from the USAID GeoCenter's Remote Sensing Program. This proposal suggests a one time import, with possible future imports once additional datasets have been cleaned and verified.
 
 There is strong support from various OSM community members: 
   - Dan Bridges, Akros
