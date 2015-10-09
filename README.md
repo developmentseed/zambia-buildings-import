@@ -9,7 +9,7 @@ This data was collected by <a href='http://akros.com/how-we-do-it/data-collectio
 Currently: Creating extract of Zambia
 
 ##Installation Requirements
-(As of 10/6/2015, will be continually updating)
+(As of 10/9/2015, will be continually updating)
 ```
         PostGres
         PostGIS
@@ -25,9 +25,9 @@ Currently: Creating extract of Zambia
 2. <strike>Translate the buildings data into SQL file format</strike>
 3. <strike>Create country extract of Zambia to compare the Akros data against</strike>
 4. <strike>Create an overlay between the OSM root data and Akros data so as to avoid uploading duplicates</strike>
-5. Once the data has been modified, add the data upload plan to the OSM wiki. As per the wiki:
-    "Write a 'plan' for the data upload on the OSM wiki, as per the wiki: "This plan must include information such as plans for how to convert the data to OSM XML, dividing up the work, how to handle conflation, how to map GIS attributes to OSM tags, how to potentially simplify any data, how you plan to divide up the work, revert plans, changeset size policies, and plans for quality assurance."
-6. Email the the data imports listserv, and Africa listserv letting them know they can review the upload plan
+5. <strike>Once the data has been modified, add the data upload plan to the OSM wiki. As per the wiki:
+    "Write a 'plan' for the data upload on the OSM wiki, as per the wiki: "This plan must include information such as plans for how to convert the data to OSM XML, dividing up the work, how to handle conflation, how to map GIS attributes to OSM tags, how to potentially simplify any data, how you plan to divide up the work, revert plans, changeset size policies, and plans for quality assurance."</strike>
+6. <strike>Email the the data imports listserv, and Africa listserv letting them know they can review the upload plan </strike>
 7. Create a designated user account for the upload
 8. Conduct the upload
 
